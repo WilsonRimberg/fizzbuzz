@@ -1,7 +1,7 @@
 """
 fizzbuzz.py
 Author: Wilson
-Credit: Rimberg
+Credit: none
 
 Assignment:
 
